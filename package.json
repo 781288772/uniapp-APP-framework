@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "vant": "^3.4.3"
+  }
+}
